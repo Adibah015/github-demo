@@ -6,4 +6,4 @@ Test editing
 it's working till now!
 
 ## Local Development 
-Open index.html in your browser. 
+Open index.html in your browser 
